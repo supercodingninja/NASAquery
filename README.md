@@ -1,6 +1,8 @@
 # NASA Image Search Engine
 
-I am planning on making some improvements that we ddid not get to (all about the Most Viable Project (MVP), and rolling out the second edition, in order to stay ahead of the compettition, but I prefer Steve Jobs approach: don't make junk, get it done right the first time). [Deployed Application](https://supercodingninja.github.io/NASAquery/)
+I am planning on making some improvements that we ddid not get to (all about the Most Viable Project (MVP), and rolling out the second edition, in order to stay ahead of the compettition, but I prefer Steve Jobs approach: don't make junk, get it done right the first time).
+
+[Personal Stretch Goals: Deployed Application](https://supercodingninja.github.io/NASAquery/)
 
 Please feel free to check out our [team's final project](https://am-white.github.io/ProjectUno/)
 
