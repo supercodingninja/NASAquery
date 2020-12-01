@@ -4,7 +4,7 @@ I am planning on making some improvements that we ddid not get to (all about the
 
 [Personal Stretch Goals: Deployed Application](https://supercodingninja.github.io/NASAquery/)
 
-Please feel free to check out our [team's final project](https://am-white.github.io/ProjectUno/)
+Please feel free to check out our [team's final project](https://am-white.github.io/Nasa-Search-Engine/)
 
 This application generates images and information based on the users search entry.
 
@@ -39,7 +39,7 @@ Users can then hover over their result images and click one of the heart buttons
 ---
 
 ## Usage
-* Visit the deployed app: [NASA Search Engine](https://am-white.github.io/ProjectUno/)
+* Visit the deployed app: [NASA Search Engine](https://github.com/am-white/Nasa-Search-Engine)
     1. Enter word related to space into search area and press the "Search" button to show results.
     2. View Images displayed in the result cards, and click on the heart button to save that image to your local storage.
     3. Bonus: Find hidden "Easter Egg button" and be transported toa super cool interactive space website to learn more.
